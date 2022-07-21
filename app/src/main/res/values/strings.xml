@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoContentProvider</string>
+    <string name="provider_explanation">Dies ist ein Geo-Content-Provider entwickelt von Kilian Aaron Brinkner.\n\n
+    Andere Apps können Anfragen an diese App senden, um Geodaten zu erhalten. Geodaten treten in Form von Vektorabfragen,
+    Routing, Geocoding, Kacheln als auch dem eigenen Standortverlauf auf.</string>
+    <string name="begin_location_history">Klicke hier, um den Standortverlauf zu beginnen:</string>
+
+</resources>
