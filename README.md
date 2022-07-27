@@ -5,7 +5,9 @@ An Android Content Provider for geodata which can be used when mobile devices ar
 
 # Content Provider
 
-Die .apk ist die Provider-App mit Daten von Berlin.
+Ein .apk File von einer Client-App findet sich hier: https://cloud.bht-berlin.de/index.php/s/jG3cNe7e8m3PJC9
+Ein .apk File von der Provider-App findet sich hier: https://cloud.bht-berlin.de/index.php/s/t2NkMqPqga8284e
+Ein .zip File der Client-App findet sich hier: https://cloud.bht-berlin.de/index.php/s/DqmmB9rP6mY4Sfa (Sie beinhaltet derzeit nur die Get-Feature-Abfrage, im Code sind jedoch auch die anderen Abfragen zu sehen. Für das Modul Mobile Geoanwendugen wird in den kommenden Tagen eine komplexere und anschaulichere Client-App erstellt.)
 
 Eine Client-App kann Anfragen an die App schicken, um dann Geodaten zu erhalten. Derzeit unterstützt:
 
