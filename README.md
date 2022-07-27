@@ -9,8 +9,12 @@ Die .apk ist die Provider-App mit Daten von Berlin.
 
 Eine Client-App kann Anfragen an die App schicken, um dann Geodaten zu erhalten. Derzeit unterstützt:
 
-* Feature-Abfrage von Berlin (nodes und ways)
-* User Standort History (Datenbank mit Positionen des Users alle 30 Minuten)
+* Get-Feature von öffentlichen Daten aus Berlin (nodes und ways)
+* Get-Feature mit privaten Daten von Client-Apps (siehe Update-Feature)
+* Update Feature mit privaten Client-Daten
+* User Location History (Datenbank mit Positionen des Users alle 20 Minuten)
+* Geocoding-Abfrage mit Koordinaten als Input und Ortsnamen als Output
+
 
 ## Get Feature
 
